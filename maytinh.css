@@ -1,0 +1,19 @@
+table{
+    background-color: bisque;
+    margin: auto;
+}
+#Result{
+    width: 180px;
+}
+.btn{
+    width: 33px;
+    height: 30px;
+}
+#equal{
+    width: 33px;
+    height: 64px;
+}
+#zero{
+    width: 70px;
+    height: 30px;
+}
